@@ -1,0 +1,4 @@
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\InseritonSort\bin\Debug\InseritonSort.exe
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\InseritonSort\bin\Debug\InseritonSort.pdb
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\InseritonSort\obj\x86\Debug\InseritonSort.exe
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\InseritonSort\obj\x86\Debug\InseritonSort.pdb

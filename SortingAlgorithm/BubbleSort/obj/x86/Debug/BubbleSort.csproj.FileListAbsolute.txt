@@ -1,0 +1,4 @@
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\BubbleSort\bin\Debug\BubbleSort.exe
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\BubbleSort\bin\Debug\BubbleSort.pdb
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\BubbleSort\obj\x86\Debug\BubbleSort.exe
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\BubbleSort\obj\x86\Debug\BubbleSort.pdb

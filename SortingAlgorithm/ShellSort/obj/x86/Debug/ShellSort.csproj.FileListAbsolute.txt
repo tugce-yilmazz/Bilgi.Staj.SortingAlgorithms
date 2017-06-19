@@ -1,0 +1,5 @@
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\ShellSort\bin\Debug\ShellSort.exe
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\ShellSort\bin\Debug\ShellSort.pdb
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\ShellSort\obj\x86\Debug\ShellSort.exe
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\ShellSort\obj\x86\Debug\ShellSort.pdb
+C:\Users\TUGCE\documents\visual studio 2010\Projects\SortingAlgorithm\ShellSort\obj\x86\Debug\ShellSort.csprojResolveAssemblyReference.cache

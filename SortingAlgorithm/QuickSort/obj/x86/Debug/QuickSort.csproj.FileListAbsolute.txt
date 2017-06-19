@@ -1,0 +1,4 @@
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\QuickSort\bin\Debug\QuickSort.exe
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\QuickSort\bin\Debug\QuickSort.pdb
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\QuickSort\obj\x86\Debug\QuickSort.exe
+c:\users\tugce\documents\visual studio 2010\Projects\SortingAlgorithm\QuickSort\obj\x86\Debug\QuickSort.pdb
